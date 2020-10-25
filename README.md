@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+I'm a solution architect learning github to better design solutions involving a github component. 
